@@ -1,1 +1,1 @@
-FROM azinchen/duplicacy@sha256:9be7508bd375fc3343ac13bc2928e73eca7de5bb446ffd4eb3284804f8d40b4a
+FROM azinchen/duplicacy@sha256:74ef526be03d51db01d6832c7bc5d35a7e678dd136a9f86e80d6dc0c495dd11c
